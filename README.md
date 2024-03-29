@@ -1,2 +1,2 @@
 # R-Programming-to-Find-DNA-motifs
-Algorithms that find DNA motifs using R
+My Portfolio of Algorithms that find DNA motifs using R
