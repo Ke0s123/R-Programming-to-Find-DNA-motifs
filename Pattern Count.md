@@ -1,3 +1,5 @@
+The assumption is that DNA is a language of its own
+
 To compute Count(Text, Pattern), create a window sliding down Text, checking whether each k-mer substring of Text matches Pattern. The k-mer starting at position i of Text will be refered to as Text(i, k). Remember to use 0-based indexing.
 
 ##Sample Input: DNA String; and DNA Pattern to find
